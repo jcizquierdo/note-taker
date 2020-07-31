@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application that allows the user to write and save notes through out their day.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "No tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcizquierdo/note-taker.git"
+  },
+  "author": "JC Izquierdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcizquierdo/note-taker/issues"
+  },
+  "homepage": "https://github.com/jcizquierdo/note-taker#readme"
+}
